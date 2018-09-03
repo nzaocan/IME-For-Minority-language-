@@ -9,14 +9,16 @@
 `小语种输入法`由作者独立设计和完成（包含视觉和交互设计）
 
 
-`####支持Windows多平台` - `Text Service Framework（TSF）`
+
+
+
+####支持Windows多平台#### - `Text Service Framework（TSF）`
 
 Windows输入法开发由于文档很少，组织也比较混乱，因此存在一定的开发难度。
 本项目使用了TSF实现，花了不短时间研究TSF内部的逻辑结构。
 
 
-进程同步-`TCP SOCKET`
-----
+###进程同步-`TCP SOCKET`###
 在项目中为了自定义GUI，将GUI从TSF框架中分离了。
 
 GUI和TSF处于不同的进程，因此需要它们之间需要同步，项目使用了windows socket实现了进程同步。
