@@ -12,7 +12,7 @@
 -------------------
 NLP-拼写错误纠正-最小编辑距离
 -
-拼写错误纠正基于`最小编辑距离`算法实现，算法定义如下：
+拼写错误纠正基于`最小编辑距离`算法实现，算法定义如下图，使用该算法，可以得到和用户输入相关的候选项供用户选择。
 
 ![](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/minDistance.png)
 
