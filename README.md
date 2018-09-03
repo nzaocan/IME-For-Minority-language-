@@ -11,3 +11,8 @@
 ----------
 
 ![hello](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/hello.png)
+![mainpage](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/mainpage.png)
+![](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/MouseCoverCandidatewindow.png)
+![](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/login.png)
+![](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/checkUpdate.png)
+![](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/install.png)
