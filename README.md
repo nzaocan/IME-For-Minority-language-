@@ -9,9 +9,17 @@
 `小语种输入法`由作者独立设计和完成（包含视觉和交互设计）
 
 
+支持Windows多平台 - `Text Service Framework（TSF）`
+-----
+Windows输入法开发由于文档很少，组织也比较混乱，因此存在一定的开发难度。
+本项目使用了TSF实现，
+
+
 进程同步-`TCP SOCKET`
 ----
 在项目中由于GUI和TSF框架是分离的，因此需要它们之间需要同步，作者使用了windows socket实现了进程同步。
+
+
 
 自然语言处理
 -
@@ -21,11 +29,16 @@ NLP-拼写错误纠正-`最小编辑距离`
 
 <img width="400" src="https://github.com/nzaocan/IME-For-Minority-language-/blob/master/minDistance.png"/>
 
+
+
 NLP-候选列表生成-`LRU Cache`
 -------
 LRU Cache 是操作系统中的一个算法，直译为最近最少使用算法，本文使用链表和哈希表（键值对）实现。
 
 维护LRU Cache涉及大量的删除/查找操作，因此选用了删除/查找时间为o(1)的链表/哈希表。
+
+
+
 
 视觉/交互设计
 ----------
