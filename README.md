@@ -19,7 +19,7 @@ NLP-拼写错误纠正-`最小编辑距离`
 -
 拼写错误纠正基于`最小编辑距离`算法实现，算法定义如下图，使用该算法，可以得到和用户输入相关的候选项供用户选择。
 
-<img width="150" height="150" src="https://github.com/nzaocan/IME-For-Minority-language-/blob/master/minDistance.png"/>
+<img width="400" src="https://github.com/nzaocan/IME-For-Minority-language-/blob/master/minDistance.png"/>
 
 NLP-候选列表生成-`LRU Cache`
 -------
