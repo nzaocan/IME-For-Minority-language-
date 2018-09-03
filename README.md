@@ -10,8 +10,7 @@
 
 视觉/交互设计
 ----------
-1. 使用XAML重写了窗体样式和诸多控件样式，以使APP在Windows7和windows10视觉体验一致。
-2. 
+使用XAML重写了窗体样式和诸多控件样式，以使APP在Windows7和windows10视觉体验一致。 
 
 ![hello](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/hello.png)
 
