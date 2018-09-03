@@ -8,15 +8,15 @@
 
 `小语种输入法`由作者独立设计和完成（包含视觉和交互设计）
 
-####自然语言处理
+自然语言处理
 -
-NLP-拼写错误纠正-最小编辑距离
+NLP-拼写错误纠正-`最小编辑距离`
 -
 拼写错误纠正基于`最小编辑距离`算法实现，算法定义如下图，使用该算法，可以得到和用户输入相关的候选项供用户选择。
 
 ![](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/minDistance.png)
 
-NLP-候选列表生成-LRU Cache
+NLP-候选列表生成-`LRU Cache`
 -------
 LRU Cache 是操作系统中的一个算法，直译为最近最少使用算法，本文使用链表和哈希表（键值对）实现。
 
