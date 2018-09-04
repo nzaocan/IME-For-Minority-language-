@@ -107,6 +107,8 @@ LRU Cache 是操作系统中的一个概念，直译为最近最少使用缓存�
 ----------
 使用XAML重写了窗体样式和诸多控件样式，以使APP在Windows7和windows10视觉体验一致。 
 
+交互设计基于本人的北航硕士课程`交互设计`，以及微软的设计规范和Fluent Design。
+
 ![hello](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/hello.png)
 
 ![mainpage](https://github.com/nzaocan/IME-For-Minority-language-/blob/master/mainpage.png)
